@@ -39,7 +39,7 @@
         <img src="images/mindmap_project.png" class="rounded-lg mb-4 w-full h-48 object-cover cursor-zoom-in hover:drop-shadow-[0_0_3px_#a855f7]" alt="MindMap Screenshot" @click="modalImage = 'images/mindmap_project.png'; modalOpen = true">
         <h2 class="text-2xl font-extrabold text-purple-300 mb-2 tracking-wide drop-shadow-[0_0_4px_#a855f7]">MindMap</h2>
         <p class="text-[1.15rem] text-gray-300 mb-4">The Mind Map Application is an interactive desktop tool designed to help users organize thoughts visually, brainstorm ideas, and manage projects effectively.</p>
-        <p class="text-base text-gray-500 font-semibold mb-3 transition duration-300 hover:text-white">📅 <span class="text-gray-300">Duration: July–Dec 2024</span></p>
+        <p class="text-base text-gray-500 font-semibold mb-3 transition duration-300 hover:text-white"> <span class="text-gray-200">Duration: July–Dec 2024</span></p>
         <div class="flex flex-wrap gap-2 mb-4 text-base font-semibold">
           <span class="bg-purple-400/10 text-purple-300 px-3 py-1 rounded-full transition duration-300 hover:text-white hover:drop-shadow-[0_0_6px_#9333ea]">JavaFX</span>
           <span class="bg-purple-400/10 text-purple-300 px-3 py-1 rounded-full transition duration-300 hover:text-white hover:drop-shadow-[0_0_6px_#9333ea]">MySQL</span>
