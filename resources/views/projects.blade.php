@@ -52,7 +52,7 @@
           <a href="https://github.com/Adit-Mugdha-das/Mind_Map_Application/blob/main/README.md" target="_blank" class="text-purple-300 underline hover:scale-105 hover:drop-shadow-[0_0_6px_#9333ea] transition-transform">Read More</a>
           <a href="{{ asset('downloads/mindmap_project.zip') }}" download class="text-purple-300 underline hover:scale-105 hover:drop-shadow-[0_0_6px_#9333ea] transition-transform">Download</a>
         </div>
-        <p class="text-purple-400 font-semibold text-lg mt-3">🏆 Best Project Award @ KUET</p>
+        <p class="text-purple-400 font-semibold text-lg mt-3">🏆 Best Project Award In KUET</p>
       </div>
 
       <!-- Numerical Methods Project Card -->
