@@ -60,7 +60,7 @@
         <img src="images/numerical_project.png" class="rounded-lg mb-4 w-full h-48 object-cover cursor-zoom-in hover:drop-shadow-[0_0_3px_#a855f7]" alt="Numerical Project Screenshot" @click="modalImage = 'images/numerical_project.png'; modalOpen = true">
         <h2 class="text-2xl font-extrabold text-purple-300 mb-2 tracking-wide drop-shadow-[0_0_4px_#a855f7]">Numerical Methods Solver</h2>
         <p class="text-[1.15rem] text-gray-300 mb-4">A Python-based GUI tool that allows users to solve equations using various numerical methods like Bisection, Newton-Raphson, Runge-Kutta, etc., interactively.</p>
-        <p class="text-base text-gray-500 font-semibold mb-3 transition duration-300 hover:text-white">📅 <span class="text-gray-300">Duration: Jan–Mar 2025</span></p>
+        <p class="text-base text-gray-500 font-semibold mb-3 transition duration-300 hover:text-white"> <span class="text-gray-200">Duration: Mar-Apr 2025</span></p>
         <div class="flex flex-wrap gap-2 mb-4 text-base font-semibold">
           <span class="bg-purple-400/10 text-purple-300 px-3 py-1 rounded-full transition duration-300 hover:text-white hover:drop-shadow-[0_0_6px_#9333ea]">Python</span>
           <span class="bg-purple-400/10 text-purple-300 px-3 py-1 rounded-full transition duration-300 hover:text-white hover:drop-shadow-[0_0_6px_#9333ea]">Tkinter</span>
@@ -81,7 +81,7 @@
   <img src="images/geocleanser_project.png" class="rounded-lg mb-4 w-full h-48 object-cover cursor-zoom-in hover:drop-shadow-[0_0_3px_#a855f7]" alt="GeoCleanser Screenshot" @click="modalImage = 'images/geocleanser_project.png'; modalOpen = true">
   <h2 class="text-2xl font-extrabold text-purple-300 mb-2 tracking-wide drop-shadow-[0_0_4px_#a855f7]">GeoCleanser</h2>
   <p class="text-[1.15rem] text-gray-300 mb-4">GeoCleanser is a Python-based tool to clean, convert, validate, and migrate geographic coordinates from messy datasets, with Excel output and support for multiple column pairs simultaneously.</p>
-  <p class="text-base text-gray-500 font-semibold mb-3 transition duration-300 hover:text-white">📅 <span class="text-gray-300">Duration: Mar–Apr 2025</span></p>
+  <p class="text-base text-gray-500 font-semibold mb-3 transition duration-300 hover:text-white"> <span class="text-gray-200">Duration: Feb-Mar 2025</span></p>
 
   <div class="flex flex-wrap gap-2 mb-4 text-base font-semibold">
     <span class="bg-purple-400/10 text-purple-300 px-3 py-1 rounded-full transition duration-300 hover:text-white hover:drop-shadow-[0_0_6px_#9333ea]">Python</span>
@@ -104,7 +104,7 @@
   <img src="images/service_locator_project.png" class="rounded-lg mb-4 w-full h-48 object-cover cursor-zoom-in hover:drop-shadow-[0_0_3px_#a855f7]" alt="Service Locator Screenshot" @click="modalImage = 'images/service_locator_project.png'; modalOpen = true">
   <h2 class="text-2xl font-extrabold text-purple-300 mb-2 tracking-wide drop-shadow-[0_0_4px_#a855f7]">Service Locator</h2>
   <p class="text-[1.15rem] text-gray-300 mb-4">A Python tool that uses Google Places API to fetch nearby locations like schools, hospitals, restaurants based on coordinates, radius, and type, with Excel and interactive map output.</p>
-  <p class="text-base text-gray-500 font-semibold mb-3 transition duration-300 hover:text-white">📅 <span class="text-gray-300">Duration: Feb–Mar 2025</span></p>
+  <p class="text-base text-gray-500 font-semibold mb-3 transition duration-300 hover:text-white"><span class="text-gray-200">Duration: Jan-Feb 2025</span></p>
 
   <div class="flex flex-wrap gap-2 mb-4 text-base font-semibold">
     <span class="bg-purple-400/10 text-purple-300 px-3 py-1 rounded-full transition duration-300 hover:text-white hover:drop-shadow-[0_0_6px_#9333ea]">Python</span>
@@ -129,7 +129,7 @@
   <img src="images/cpu_logisim_project.png" class="rounded-lg mb-4 w-full h-48 object-cover cursor-zoom-in hover:drop-shadow-[0_0_3px_#a855f7]" alt="22-bit CPU Screenshot" @click="modalImage = 'images/cpu_logisim_project.png'; modalOpen = true">
   <h2 class="text-2xl font-extrabold text-purple-300 mb-2 tracking-wide drop-shadow-[0_0_4px_#a855f7]">22-Bit CPU Design (Logisim)</h2>
   <p class="text-[1.15rem] text-gray-300 mb-4">A fully functional 22-bit CPU architecture designed in Logisim with custom ALU, control unit, ROM/RAM memory, and an instruction set supporting arithmetic and bitwise operations.</p>
-  <p class="text-base text-gray-500 font-semibold mb-3 transition duration-300 hover:text-white">📅 <span class="text-gray-300">Duration: Nov–Dec 2024</span></p>
+  <p class="text-base text-gray-500 font-semibold mb-3 transition duration-300 hover:text-white"> <span class="text-gray-300">Duration: Jan-Apr 2024</span></p>
 
   <div class="flex flex-wrap gap-2 mb-4 text-base font-semibold">
     <span class="bg-purple-400/10 text-purple-300 px-3 py-1 rounded-full transition duration-300 hover:text-white hover:drop-shadow-[0_0_6px_#9333ea]">Logisim</span>
@@ -155,7 +155,7 @@
   <img src="images/digital_clock_project.png" class="rounded-lg mb-4 w-full h-48 object-cover cursor-zoom-in hover:drop-shadow-[0_0_3px_#a855f7]" alt="Digital Clock Screenshot" @click="modalImage = 'images/digital_clock_project.png'; modalOpen = true">
   <h2 class="text-2xl font-extrabold text-purple-300 mb-2 tracking-wide drop-shadow-[0_0_4px_#a855f7]">Digital Clock (Logisim)</h2>
   <p class="text-[1.15rem] text-gray-300 mb-4">A real-time HH:MM digital clock built in Logisim using counters, decoders, logic gates, and seven-segment displays. Features reset capability and supports both 12-hour and 24-hour formats.</p>
-  <p class="text-base text-gray-500 font-semibold mb-3 transition duration-300 hover:text-white">📅 <span class="text-gray-300">Duration: Oct–Nov 2024</span></p>
+  <p class="text-base text-gray-500 font-semibold mb-3 transition duration-300 hover:text-white"> <span class="text-gray-200">Duration: July–Nov 2023</span></p>
 
   <div class="flex flex-wrap gap-2 mb-4 text-base font-semibold">
     <span class="bg-purple-400/10 text-purple-300 px-3 py-1 rounded-full transition duration-300 hover:text-white hover:drop-shadow-[0_0_6px_#9333ea]">Logisim</span>
